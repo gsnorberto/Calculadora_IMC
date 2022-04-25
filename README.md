@@ -1,2 +1,4 @@
-# Calculadora_IMC
-Projeto em React
+# CALCULADORA IMC - REACT
+
+### Criado junto ao curso B7Web
+
